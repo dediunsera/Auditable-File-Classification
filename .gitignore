@@ -1,0 +1,19 @@
+# Mengabaikan file sistem OS & cache
+.DS_Store
+__pycache__/
+*.pyc
+
+# Mengabaikan environment Python
+venv/
+env/
+.venv/
+
+# Mengabaikan database & file log
+*.log
+*.sqlite
+*.db
+
+# Mengabaikan file dataset mentah / sensitif jika ada
+data/raw/
+*.tar.gz
+*.zip
