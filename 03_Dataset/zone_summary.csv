@@ -1,0 +1,15 @@
+zone,total_files,total_bytes,total_mb,sampled
+cache_user,70895,9602047032,9157.2,100
+cache_system,3,17693054,16.9,3
+logs_user,146,62677291,59.8,100
+trash,2,38553,0.0,2
+temp_darwin,1019,428761348,408.9,100
+temp_var,45,804,0.0,45
+xcode_dd,0,0,0.0,0
+mail_dl,1,110909,0.1,1
+app_support,118010,33582904526,32027.2,100
+preferences,542,3009270,2.9,100
+containers,69653,14472481846,13802.0,100
+keychains,14,36738260,35.0,14
+launchagents,6,5720,0.0,6
+system,11017,991775586,945.8,100

@@ -1,0 +1,5 @@
+method,precision_aman,recall_aman,f1_aman,CFDR,unsafe_del_rate,specificity_kritis,reclaimed_gb,unsafe_gb,reclaimed_ratio
+SafeClean,1.0,0.4724,0.6416,0.0,0.0,1.0,0.051,0.0,0.8225
+B1_size,0.0,0.0,0.0,0.0061,0.003,0.9939,0.0,0.174,0.0
+B2_naive,0.8775,0.7097,0.7847,0.2638,0.1276,0.7362,0.051,0.175,0.8243
+B3_v0,1.0,0.4724,0.6416,0.0,0.0,1.0,0.051,0.0,0.8225
